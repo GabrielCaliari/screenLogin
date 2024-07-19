@@ -27,7 +27,7 @@ export default function Components() {
           </Text>
       </TouchableOpacity>
       <TouchableOpacity>
-         <Text style={{color: "#a1a1a1"}}>Não possui uma conta? Registre-se
+         <Text style={{color: "#a1a1a1"}}>Não possui uma conta? Registre-se agora
          </Text>
       </TouchableOpacity>
       </View>
